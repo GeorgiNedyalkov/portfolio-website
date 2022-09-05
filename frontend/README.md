@@ -17,9 +17,8 @@
     - Skills
     - Testimonial
     - Work
-
-Export all files from index.js in the container folder
-
-- components
-- assets
-- constants
+  - components
+  - assets
+  - constants
+- Create the initial styles
+  - App.scss
