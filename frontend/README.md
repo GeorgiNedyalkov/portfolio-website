@@ -21,4 +21,10 @@
   - assets
   - constants
 - Create the initial styles
+
   - App.scss
+
+- Implement the Navbar component
+  - Download assets
+  - Export all images in order to import them in one images object
+  - Style the navbar
