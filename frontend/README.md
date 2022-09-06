@@ -25,6 +25,12 @@
   - App.scss
 
 - Implement the Navbar component
+
   - Download assets
   - Export all images in order to import them in one images object
   - Style the navbar
+
+- Implement the Header
+- Style the Header
+
+- Implement the About section
